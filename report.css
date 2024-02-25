@@ -1,0 +1,29 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+    color: white;
+}
+
+#name{
+    text-align: center;
+}
+
+#name{
+    padding-top: 10px;
+    width: 100%;
+    height: 60px;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+#results{
+    margin-top: 70px;
+    height: 500px;
+    background-image: url('https://cdn.pixabay.com/photo/2018/08/23/07/35/thunderstorm-3625405_1280.jpg');
+}
+.f{
+    height: 100px;
+    width: 150px;
+    text-align:center;
+    font-size: 20px;
+    font-weight: 500;
+}
